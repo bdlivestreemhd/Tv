@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ENGVSINDTEST" tvg-logo="https://cdn.dnaindia.com/sites/default/files/2021/01/23/952220-714027-england-test-series-reuters.jpg" group-title="SPORTS",ENG VS IND TEST
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/media_files/2025/02/18/cTNIZr5FbdO687b0uxmB.png" group-title="SPORTS",StarSports 1
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/gtv.jpg" group-title="BANGLA",GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
