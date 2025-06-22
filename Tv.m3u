@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ENGVSINDTEST" tvg-logo="https://cdn.dnaindia.com/sites/default/files/2021/01/23/952220-714027-england-test-series-reuters.jpg?im=FitAndFill=(1200,900)" group-title="SPORTS",ENG VS IND TEST
+#EXTINF:-1 tvg-id="ENGVSINDTEST" tvg-logo="https://cdn.dnaindia.com/sites/default/files/2021/01/23/952220-714027-england-test-series-reuters.jpg" group-title="SPORTS",ENG VS IND TEST
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1" tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/media_files/2025/02/18/cTNIZr5FbdO687b0uxmB.png" group-title="SPORTS",StarSports 1
